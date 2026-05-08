@@ -6250,7 +6250,7 @@ Only admissible it it maps onto the pentad!
 
 ---
 
-The pentad is your admission test. Let's run it.
+The pentad is your [admission test](https://ukubona-llc.github.io/sib-gap/). Let's run it.
 
 **The five axes:**
 
