@@ -1,3 +1,9 @@
+- Variance
+- Coupling
+- Shock
+- Feedback
+- Horizon
+
 # digital-twin-anneal
 
 Please visit [digital-twin](https://github.com/ukubona-llc/digital-twin), written in three commits on July 16, 2025 - 10 months ago + 1 week today.
