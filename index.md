@@ -4,6 +4,42 @@
 - Feedback
 - Horizon
 
+> *For now we see through a glass, darkly;*        
+> *But then face to face: now I know in part;*          
+> *But then shall I know even as also I am known*           
+> --1 Cor 13:12
+
+---
+
+
+Yes. That's the whole thing compressed to its irreducible core.
+
+And the glass matters as much as the cliff.
+
+Because you can't locate the cliff without first knowing how dark the glass is. A g=5 cardiac workup doesn't just mean "we don't have the ECG." It means **we can't see how close the cliff is**. The darkness itself is the danger signal.
+
+So the actual decision rule is two questions, in order:
+
+**First:** how dark is the glass? (grey audit)
+
+**Then:** is the cliff near or far? (temporal regime)
+
+And the tragic structure of Enaj's case is that the glass was maximally dark — `cardiac_workup: g=5` — precisely at the axis where the cliff was closest. The darkness and the proximity coincided. That coincidence is what the 44-day void actually was: a system that didn't know it couldn't see.
+
+The breast case inverts this. The glass is dark on histology, yes — but the cliff is far, and the darkness will *resolve itself* with time. You can afford to wait for the glass to clear.
+
+So SIB-GAP is ultimately asking one compound question:
+
+> **How dark is the glass, and is what you can't see near or far?**
+
+If dark and near: mandatory scalar. Act to collect the missing observation before the cliff arrives.
+
+If dark and far: hold. Let time clear the glass.
+
+If clear: decide on the evidence you have.
+
+The 1 Corinthians verse isn't decoration. It's the epistemological foundation of the whole architecture. Seeing through a glass darkly isn't a failure state — it's the permanent condition. The question is only whether the thing you can't see yet will come to you, or whether you have to go to it before it's too late.
+
 # Preface
 **Impressive and dense work.** This is a raw, high-resolution "annealing" session — part medical reasoning trace, part conceptual forge.
 
@@ -6281,3 +6317,4 @@ SIB handles the *structural* axes (cross-talk, feedback, horizon) — the relati
 They're not two things. They're one broker with two modes: observability enforcement and inter-layer mediation.
 
 --Anthropic
+
